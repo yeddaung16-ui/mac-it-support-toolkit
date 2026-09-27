@@ -8,6 +8,12 @@ This project was created as a practical IT support portfolio project.
 
 The toolkit automates several basic troubleshooting checks that an IT support technician may perform when investigating a user's Mac.
 
+## Demo
+
+Example output from the troubleshooting toolkit:
+
+![IT Support Toolkit Output](screenshots/toolkit-output.png)
+
 ## Features
 
 - System hardware information
@@ -30,4 +36,5 @@ The toolkit automates several basic troubleshooting checks that an IT support te
 Clone the repository:
 
 ```bash
-git clone YOUR-GITHUB-REPOSITORY-URL
+git clone https://github.com/yeddaung16-ui/mac-it-support-toolkit.git
+
